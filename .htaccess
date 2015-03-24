@@ -12,11 +12,11 @@ Options +FollowSymLinks
 
 RewriteEngine On
 
-RewriteRule ^home$ /index.php [NC,L]
-RewriteRule ^([a-zA-Z]+)$ /$1.php [NC,L]
+RewriteRule ^home$ /~cazell/index.php [NC,L]
+RewriteRule ^([a-zA-Z]+)$ /~cazell/$1.php [NC,L]
 
 #-----------------------END_REWRITE-------------------------
 
 
 # 404 Page
-ErrorDocument 404 /404.php
+ErrorDocument 404 /~cazell/404.php
