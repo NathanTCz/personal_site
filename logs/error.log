@@ -1,0 +1,1439 @@
+[Tue Mar 05 13:02:43 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:02:47 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:02:49 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:02:50 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:02:52 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:03:20 2013] [error] [client 128.186.118.147] Directory index forbidden by Options directive: /var/www/nathancazell.com/
+[Tue Mar 05 13:03:20 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:03:20 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:07:41 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:07:41 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:07:46 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:07:46 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:07:47 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:07:47 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:07:47 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:07:47 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:07:47 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:07:47 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:07:47 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:07:47 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:07:48 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:07:48 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:07:48 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:07:48 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:07:48 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:07:48 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:07:48 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:07:48 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:11:53 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:11:53 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:12:12 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:12:12 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:13:48 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:13:48 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:16:25 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:16:25 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:16:35 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:16:35 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:16:36 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:16:36 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:17:11 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:17:11 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:18:02 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:18:02 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:18:09 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:18:09 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:18:40 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:18:40 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:21:07 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:21:07 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:22:47 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:22:47 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:23:01 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:23:01 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:23:02 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:23:02 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:23:09 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:23:09 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:23:49 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:23:49 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:24:05 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:24:05 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:24:14 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:24:14 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:24:31 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:24:31 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:28:08 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:28:08 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:28:49 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:28:49 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:29:06 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:29:06 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:29:18 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:29:18 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:29:58 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:29:58 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:29:59 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:29:59 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:29:59 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:29:59 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:30:07 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:30:07 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:30:16 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:30:16 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:30:24 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:30:24 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:30:35 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:30:35 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:31:26 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:31:26 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:31:38 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:31:38 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:32:31 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:32:31 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:33:11 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:33:11 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:35:05 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:35:05 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:35:40 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:35:40 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:36:33 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:36:33 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:37:31 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:37:31 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:38:22 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:38:22 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:39:05 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:39:05 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:39:34 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:39:34 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:40:58 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:40:58 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:41:34 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:41:34 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:42:20 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:42:20 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:42:34 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:42:34 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:42:49 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:42:49 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:43:00 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:43:00 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:44:01 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:44:01 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:44:34 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:44:34 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:44:49 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:44:49 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:45:25 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:45:25 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:45:52 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:45:52 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:48:44 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:48:44 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:49:22 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:49:22 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:50:02 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:50:02 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:50:10 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:50:10 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:50:22 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:50:22 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:50:43 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:50:43 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:57:30 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:57:30 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:59:49 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 13:59:49 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 13:59:50 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/css/images, referer: http://nathancazell.com/
+[Tue Mar 05 13:59:50 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/
+[Tue Mar 05 14:00:26 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 14:00:26 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 14:00:26 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/css/images, referer: http://nathancazell.com/
+[Tue Mar 05 14:00:26 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/
+[Tue Mar 05 14:00:49 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 14:00:49 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 14:01:16 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 14:01:16 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 14:02:24 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 14:02:24 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 14:02:25 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/css/images, referer: http://nathancazell.com/
+[Tue Mar 05 14:02:25 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/
+[Tue Mar 05 14:02:30 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 14:02:30 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 14:02:46 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 14:02:46 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 14:03:23 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/css/images, referer: http://nathancazell.com/
+[Tue Mar 05 14:03:23 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/
+[Tue Mar 05 14:04:27 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/css/images, referer: http://nathancazell.com/
+[Tue Mar 05 14:04:27 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/
+[Tue Mar 05 14:04:42 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/css/images, referer: http://nathancazell.com/
+[Tue Mar 05 14:04:42 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/
+[Tue Mar 05 14:05:08 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/css/images, referer: http://nathancazell.com/
+[Tue Mar 05 14:05:08 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/
+[Tue Mar 05 14:05:18 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/css/images, referer: http://nathancazell.com/
+[Tue Mar 05 14:05:18 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/
+[Tue Mar 05 14:12:50 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/css/images, referer: http://nathancazell.com/
+[Tue Mar 05 14:12:50 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/
+[Tue Mar 05 14:13:02 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/css/images, referer: http://nathancazell.com/
+[Tue Mar 05 14:13:02 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/
+[Tue Mar 05 14:14:08 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/css/images, referer: http://nathancazell.com/
+[Tue Mar 05 14:14:08 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/
+[Tue Mar 05 14:14:25 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/css/images, referer: http://nathancazell.com/
+[Tue Mar 05 14:14:25 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/
+[Tue Mar 05 14:15:12 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/css/images, referer: http://nathancazell.com/
+[Tue Mar 05 14:15:12 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/
+[Tue Mar 05 14:15:59 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/css/images, referer: http://nathancazell.com/
+[Tue Mar 05 14:15:59 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/
+[Tue Mar 05 14:17:17 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/css/images, referer: http://nathancazell.com/
+[Tue Mar 05 14:17:17 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/
+[Tue Mar 05 14:17:30 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/css/images, referer: http://nathancazell.com/
+[Tue Mar 05 14:17:30 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/
+[Tue Mar 05 14:45:42 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/images/m.png, referer: http://nathancazell.com/
+[Tue Mar 05 14:45:42 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/
+[Tue Mar 05 14:46:43 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/images/m.png, referer: http://nathancazell.com/home
+[Tue Mar 05 14:46:43 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:48:29 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/images/m.png, referer: http://nathancazell.com/home
+[Tue Mar 05 14:48:29 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:48:49 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/images/m.png, referer: http://nathancazell.com/home
+[Tue Mar 05 14:48:49 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:49:21 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/images/m.png, referer: http://nathancazell.com/home
+[Tue Mar 05 14:49:21 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:49:37 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/images/m.png, referer: http://nathancazell.com/home
+[Tue Mar 05 14:49:37 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:50:11 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/images/m.png, referer: http://nathancazell.com/home
+[Tue Mar 05 14:50:11 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:50:40 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/images/m.png, referer: http://nathancazell.com/home
+[Tue Mar 05 14:50:40 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:50:43 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/images/m.png, referer: http://nathancazell.com/home
+[Tue Mar 05 14:50:43 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:50:44 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/resume.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:50:44 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:50:44 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 14:50:44 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 14:50:47 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:50:47 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:50:47 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 14:50:47 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 14:54:18 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/images/m.png, referer: http://nathancazell.com/home
+[Tue Mar 05 14:54:18 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:55:26 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/images/m.png, referer: http://nathancazell.com/home
+[Tue Mar 05 14:55:26 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:55:40 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/images/m.png, referer: http://nathancazell.com/home
+[Tue Mar 05 14:55:40 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:55:41 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/images/m.png, referer: http://nathancazell.com/home
+[Tue Mar 05 14:55:41 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:55:42 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/images/m.png, referer: http://nathancazell.com/home
+[Tue Mar 05 14:55:42 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:55:42 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/images/m.png, referer: http://nathancazell.com/home
+[Tue Mar 05 14:55:42 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:55:42 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/images/m.png, referer: http://nathancazell.com/home
+[Tue Mar 05 14:55:42 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:55:56 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/images/m.png, referer: http://nathancazell.com/home
+[Tue Mar 05 14:55:56 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:55:57 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/images/bg.png, referer: http://nathancazell.com/home
+[Tue Mar 05 14:55:57 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:56:08 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/images/m.png, referer: http://nathancazell.com/home
+[Tue Mar 05 14:56:08 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:56:28 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/images/m.png, referer: http://nathancazell.com/home
+[Tue Mar 05 14:56:28 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 14:57:25 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/images/m.png, referer: http://nathancazell.com/home
+[Tue Mar 05 14:57:25 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 15:02:52 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/resume.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 15:02:52 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 15:02:52 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 15:02:52 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 15:02:55 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 15:02:55 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 15:02:55 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 15:02:55 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 15:02:57 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/contact.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 15:02:57 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 15:02:57 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 15:02:57 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/404.php' not found or unable to stat
+[Tue Mar 05 15:08:47 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/hello.php' not found or unable to stat
+[Tue Mar 05 15:09:17 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/hello.php' not found or unable to stat
+[Tue Mar 05 15:09:59 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/hello.php' not found or unable to stat
+[Tue Mar 05 15:11:04 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 15:11:19 2013] [error] [client 128.186.118.147] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 15:14:01 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/resume.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 15:14:02 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 15:14:02 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/contact.php' not found or unable to stat, referer: http://nathancazell.com/projects
+[Tue Mar 05 15:14:03 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/resume.php' not found or unable to stat, referer: http://nathancazell.com/contact
+[Tue Mar 05 15:14:31 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/resume.php' not found or unable to stat, referer: http://nathancazell.com/contact
+[Tue Mar 05 15:14:38 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/resume.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 15:14:38 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 15:14:39 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/contact.php' not found or unable to stat, referer: http://nathancazell.com/projects
+[Tue Mar 05 15:14:42 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 15:15:26 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/resume.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 15:17:38 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/resume.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 15:18:00 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/contact.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 15:18:01 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/contact.php' not found or unable to stat, referer: http://nathancazell.com/contact
+[Tue Mar 05 15:18:06 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/resume.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 15:18:07 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 15:18:08 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/contact.php' not found or unable to stat, referer: http://nathancazell.com/projects
+[Tue Mar 05 15:18:10 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/resume.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 15:19:53 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 15:19:56 2013] [error] [client 128.186.118.147] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 17:36:03 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/resume.php' not found or unable to stat, referer: http://nathancazell.com/
+[Tue Mar 05 17:36:04 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 17:36:05 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/contact.php' not found or unable to stat, referer: http://nathancazell.com/projects
+[Tue Mar 05 17:36:07 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/resume.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 17:36:09 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 17:36:09 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/contact.php' not found or unable to stat, referer: http://nathancazell.com/projects
+[Tue Mar 05 18:06:42 2013] [error] [client 199.115.113.98] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Mar 05 18:31:40 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/resume.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 18:40:58 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/resume.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 19:05:55 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/resume.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 19:08:14 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/resume.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 19:08:21 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/resume.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 19:24:46 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 19:24:47 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 19:24:49 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/contact.php' not found or unable to stat, referer: http://nathancazell.com/projects
+[Tue Mar 05 19:24:49 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/contact
+[Tue Mar 05 19:24:52 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:22:34 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:22:35 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/contact.php' not found or unable to stat, referer: http://nathancazell.com/projects
+[Tue Mar 05 20:22:41 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 20:22:48 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/contact.php' not found or unable to stat, referer: http://nathancazell.com/projects
+[Tue Mar 05 20:22:49 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/contact
+[Tue Mar 05 20:30:09 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:30:16 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:31:01 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:31:02 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:31:52 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:34:19 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:34:20 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:34:26 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:34:50 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:34:51 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:34:51 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:34:52 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:34:58 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:34:59 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:35:32 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:36:10 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:36:18 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:37:12 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:37:46 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:40:53 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:43:08 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:43:37 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 20:44:45 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:04:24 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:04:49 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:05:02 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:05:39 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:06:09 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:06:26 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:06:38 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:07:02 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:07:12 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:07:26 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:07:43 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:07:44 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/contact.php' not found or unable to stat, referer: http://nathancazell.com/projects
+[Tue Mar 05 21:07:53 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:18:14 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:18:39 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:18:48 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:21:02 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:21:11 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:21:37 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:21:43 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/contact.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:21:49 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:25:34 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/contact.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 21:26:26 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/home.php' not found or unable to stat
+[Tue Mar 05 21:26:33 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:26:36 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume.php
+[Tue Mar 05 21:26:40 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:26:56 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:26:59 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 21:27:00 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/projects
+[Tue Mar 05 21:27:01 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:28:37 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/&amp;amp;amp;amp;, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:29:47 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Tue Mar 05 21:49:52 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:49:53 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/contact.php' not found or unable to stat, referer: http://nathancazell.com/projects
+[Tue Mar 05 21:49:59 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 21:51:09 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 22:06:20 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 22:06:21 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/contact.php' not found or unable to stat, referer: http://nathancazell.com/projects
+[Tue Mar 05 22:21:49 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 22:21:51 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/contact.php' not found or unable to stat, referer: http://nathancazell.com/projects
+[Tue Mar 05 22:26:03 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 22:26:05 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/contact.php' not found or unable to stat, referer: http://nathancazell.com/projects
+[Tue Mar 05 22:34:53 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/css/fonts, referer: http://nathancazell.com/home
+[Tue Mar 05 22:41:38 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 22:41:40 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/contact.php' not found or unable to stat, referer: http://nathancazell.com/projects
+[Tue Mar 05 22:41:42 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/contact
+[Tue Mar 05 22:46:18 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 22:48:36 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 22:48:58 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 22:49:33 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 22:49:34 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/contact.php' not found or unable to stat, referer: http://nathancazell.com/projects
+[Tue Mar 05 22:55:11 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/contact.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 22:55:12 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/contact
+[Tue Mar 05 23:19:02 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 23:30:27 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Tue Mar 05 23:31:54 2013] [error] [client 192.168.1.1] PHP Warning:  include(includes/pages/contact.php): failed to open stream: No such file or directory in /var/www/nathancazell.com/contact.php on line 3, referer: http://nathancazell.com/resume
+[Tue Mar 05 23:31:54 2013] [error] [client 192.168.1.1] PHP Warning:  include(): Failed opening 'includes/pages/contact.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/nathancazell.com/contact.php on line 3, referer: http://nathancazell.com/resume
+[Tue Mar 05 23:31:58 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 23:32:38 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 23:32:50 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/asdfasdf.php' not found or unable to stat
+[Tue Mar 05 23:32:52 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/asdfasdf
+[Tue Mar 05 23:32:53 2013] [error] [client 192.168.1.1] PHP Warning:  include(includes/pages/contact.php): failed to open stream: No such file or directory in /var/www/nathancazell.com/contact.php on line 3, referer: http://nathancazell.com/resume
+[Tue Mar 05 23:32:53 2013] [error] [client 192.168.1.1] PHP Warning:  include(): Failed opening 'includes/pages/contact.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/nathancazell.com/contact.php on line 3, referer: http://nathancazell.com/resume
+[Tue Mar 05 23:33:02 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/homeasdf.php' not found or unable to stat
+[Tue Mar 05 23:33:12 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 23:33:15 2013] [error] [client 192.168.1.1] PHP Warning:  include(includes/pages/contact.php): failed to open stream: No such file or directory in /var/www/nathancazell.com/contact.php on line 3, referer: http://nathancazell.com/resume
+[Tue Mar 05 23:33:15 2013] [error] [client 192.168.1.1] PHP Warning:  include(): Failed opening 'includes/pages/contact.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/nathancazell.com/contact.php on line 3, referer: http://nathancazell.com/resume
+[Tue Mar 05 23:34:06 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 23:34:09 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 23:52:14 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Tue Mar 05 23:53:00 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/resume
+[Tue Mar 05 23:54:19 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/projects.php' not found or unable to stat, referer: http://nathancazell.com/home
+[Wed Mar 06 00:04:07 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Wed Mar 06 00:04:16 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/homes.php' not found or unable to stat
+[Wed Mar 06 00:05:12 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/homes.php' not found or unable to stat
+[Wed Mar 06 00:05:28 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/homes.php' not found or unable to stat
+[Wed Mar 06 00:05:35 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Wed Mar 06 00:19:10 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Wed Mar 06 00:34:12 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Wed Mar 06 01:29:51 2013] [error] [client 192.168.1.1] script '/var/www/nathancazell.com/resumes.php' not found or unable to stat
+[Wed Mar 06 02:23:23 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Wed Mar 06 02:38:21 2013] [error] [client 66.193.171.205] File does not exist: /var/www/nathancazell.com/user
+[Wed Mar 06 03:37:48 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Wed Mar 06 09:52:47 2013] [error] [client 12.45.248.1] File does not exist: /var/www/nathancazell.com/fonts/dragonwi.ttf') format('truetype, referer: http://www.torqq.org/
+[Wed Mar 06 09:57:05 2013] [error] [client 58.218.199.250] File does not exist: /var/www/nathancazell.com/proxy
+[Wed Mar 06 11:18:19 2013] [error] [client 128.186.121.220] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Wed Mar 06 11:18:19 2013] [error] [client 128.186.121.220] File does not exist: /var/www/nathancazell.com/apple-touch-icon-precomposed.png
+[Wed Mar 06 11:18:33 2013] [error] [client 128.186.121.220] File does not exist: /var/www/nathancazell.com/apple-touch-icon-precomposed.png
+[Wed Mar 06 11:18:35 2013] [error] [client 128.186.121.220] File does not exist: /var/www/nathancazell.com/apple-touch-icon-precomposed.png
+[Wed Mar 06 11:18:37 2013] [error] [client 128.186.121.220] File does not exist: /var/www/nathancazell.com/apple-touch-icon-precomposed.png
+[Wed Mar 06 11:18:39 2013] [error] [client 128.186.121.220] File does not exist: /var/www/nathancazell.com/apple-touch-icon-precomposed.png
+[Wed Mar 06 11:18:41 2013] [error] [client 128.186.121.220] File does not exist: /var/www/nathancazell.com/apple-touch-icon-precomposed.png
+[Wed Mar 06 11:18:42 2013] [error] [client 128.186.121.220] File does not exist: /var/www/nathancazell.com/apple-touch-icon-precomposed.png
+[Wed Mar 06 11:18:43 2013] [error] [client 128.186.121.220] File does not exist: /var/www/nathancazell.com/apple-touch-icon-precomposed.png
+[Wed Mar 06 11:18:45 2013] [error] [client 128.186.121.220] File does not exist: /var/www/nathancazell.com/apple-touch-icon-precomposed.png
+[Wed Mar 06 11:18:47 2013] [error] [client 128.186.121.220] File does not exist: /var/www/nathancazell.com/apple-touch-icon-precomposed.png
+[Wed Mar 06 11:18:49 2013] [error] [client 128.186.121.220] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Wed Mar 06 11:18:49 2013] [error] [client 128.186.121.220] File does not exist: /var/www/nathancazell.com/apple-touch-icon-precomposed.png
+[Wed Mar 06 12:17:10 2013] [error] [client 128.186.118.153] script '/var/www/nathancazell.com/contactj.php' not found or unable to stat
+[Wed Mar 06 12:17:29 2013] [error] [client 128.186.118.153] script '/var/www/nathancazell.com/resum.php' not found or unable to stat
+[Wed Mar 06 12:17:44 2013] [error] [client 128.186.118.153] script '/var/www/nathancazell.com/ll.php' not found or unable to stat
+[Wed Mar 06 12:31:27 2013] [error] [client 8.28.16.254] File does not exist: /var/www/nathancazell.com/fonts/dragonwi.ttf) format("truetype"
+[Wed Mar 06 12:31:28 2013] [error] [client 173.165.192.73] File does not exist: /var/www/nathancazell.com/fonts/dragonwi.ttf) format("truetype", referer: http://nathancazell.com/
+[Wed Mar 06 12:31:54 2013] [error] [client 173.165.192.73] File does not exist: /var/www/nathancazell.com/fonts/dragonwi.ttf) format("truetype", referer: http://nathancazell.com/projects
+[Wed Mar 06 12:31:59 2013] [error] [client 173.165.192.73] File does not exist: /var/www/nathancazell.com/fonts/dragonwi.ttf) format("truetype", referer: http://nathancazell.com/contact
+[Wed Mar 06 12:32:03 2013] [error] [client 173.165.192.73] File does not exist: /var/www/nathancazell.com/fonts/dragonwi.ttf) format("truetype", referer: http://nathancazell.com/home
+[Wed Mar 06 12:32:04 2013] [error] [client 173.165.192.73] File does not exist: /var/www/nathancazell.com/fonts/dragonwi.ttf) format("truetype", referer: http://nathancazell.com/resume
+[Wed Mar 06 14:00:37 2013] [error] [client 70.193.201.168] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Wed Mar 06 14:00:37 2013] [error] [client 70.193.201.168] File does not exist: /var/www/nathancazell.com/apple-touch-icon-precomposed.png
+[Wed Mar 06 14:00:51 2013] [error] [client 70.193.201.168] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Wed Mar 06 14:00:51 2013] [error] [client 70.193.201.168] File does not exist: /var/www/nathancazell.com/apple-touch-icon-precomposed.png
+[Wed Mar 06 14:00:59 2013] [error] [client 70.193.201.168] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Wed Mar 06 14:00:59 2013] [error] [client 70.193.201.168] File does not exist: /var/www/nathancazell.com/apple-touch-icon-precomposed.png
+[Wed Mar 06 14:01:10 2013] [error] [client 70.193.201.168] File does not exist: /var/www/nathancazell.com/apple-touch-icon-precomposed.png
+[Wed Mar 06 14:01:13 2013] [error] [client 70.193.201.168] File does not exist: /var/www/nathancazell.com/apple-touch-icon-precomposed.png
+[Wed Mar 06 14:01:14 2013] [error] [client 70.193.201.168] File does not exist: /var/www/nathancazell.com/apple-touch-icon-precomposed.png
+[Wed Mar 06 14:01:16 2013] [error] [client 70.193.201.168] File does not exist: /var/www/nathancazell.com/apple-touch-icon-precomposed.png
+[Wed Mar 06 16:11:44 2013] [error] [client 123.125.71.55] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Mar 06 23:10:35 2013] [error] [client 64.246.165.210] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Mar 07 11:25:12 2013] [error] [client 66.249.74.115] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Mar 07 18:24:11 2013] [error] [client 220.181.108.100] Directory index forbidden by Options directive: /var/www/nathancazell.com/css/
+[Thu Mar 07 20:05:04 2013] [error] [client 66.249.75.50] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Mar 08 01:58:15 2013] [error] [client 123.125.71.45] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Mar 08 07:12:33 2013] [error] [client 66.249.75.117] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Mar 17 22:47:10 2013] [error] [client 66.249.75.117] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Mar 17 23:00:12 2013] [error] [client 64.246.165.50] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Mar 17 23:31:11 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Sun Mar 17 23:45:44 2013] [error] [client 70.193.206.188] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Sun Mar 17 23:45:44 2013] [error] [client 70.193.206.188] File does not exist: /var/www/nathancazell.com/apple-touch-icon-precomposed.png
+[Mon Mar 18 01:52:31 2013] [error] [client 66.249.75.144] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Mar 18 06:25:32 2013] [error] [client 66.249.75.144] File does not exist: /var/www/nathancazell.com/home.html
+[Mon Mar 18 07:13:49 2013] [error] [client 69.58.178.57] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Mar 18 07:13:50 2013] [error] [client 69.58.178.57] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Mar 18 07:58:12 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Mon Mar 18 10:48:37 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Mon Mar 18 10:52:27 2013] [error] [client 66.249.75.117] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Mar 18 12:21:37 2013] [error] [client 180.76.5.57] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Mar 18 23:13:40 2013] [error] [client 198.20.69.74] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Mar 19 07:20:41 2013] [error] [client 123.125.71.60] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Mar 19 09:38:01 2013] [error] [client 157.55.33.21] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Mar 19 10:30:43 2013] [error] [client 66.249.75.117] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Mar 19 11:20:18 2013] [error] [client 198.20.69.74] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Mar 19 12:22:04 2013] [error] [client 180.76.5.26] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Mar 19 12:27:37 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Tue Mar 19 13:14:41 2013] [error] [client 66.249.75.144] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Mar 19 13:14:41 2013] [error] [client 66.249.75.144] File does not exist: /var/www/nathancazell.com/home.html
+[Tue Mar 19 18:06:52 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Tue Mar 19 20:58:15 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Tue Mar 19 23:49:04 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Wed Mar 20 02:39:32 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/aop0igj.php' not found or unable to stat
+[Wed Mar 20 11:34:30 2013] [error] [client 180.76.5.193] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Mar 20 13:39:57 2013] [error] [client 66.249.73.21] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Mar 20 13:39:57 2013] [error] [client 66.249.73.21] File does not exist: /var/www/nathancazell.com/home.html
+[Wed Mar 20 18:13:15 2013] [error] [client 198.7.57.74] script '/var/www/nathancazell.com/muieblackcat.php' not found or unable to stat
+[Wed Mar 20 18:13:15 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/admin
+[Wed Mar 20 18:13:16 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/admin
+[Wed Mar 20 18:13:16 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/admin
+[Wed Mar 20 18:13:17 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/db
+[Wed Mar 20 18:13:17 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/dbadmin
+[Wed Mar 20 18:13:17 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/myadmin
+[Wed Mar 20 18:13:17 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/mysql
+[Wed Mar 20 18:13:20 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/typo3
+[Wed Mar 20 18:13:21 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/phpadmin
+[Wed Mar 20 18:13:21 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/phpMyAdmin
+[Wed Mar 20 18:13:24 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/phpmyadmin1
+[Wed Mar 20 18:13:24 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/phpmyadmin2
+[Wed Mar 20 18:13:25 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/web
+[Wed Mar 20 18:13:25 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/xampp
+[Wed Mar 20 18:13:25 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/web
+[Wed Mar 20 18:13:25 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/php-my-admin
+[Wed Mar 20 18:13:26 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/websql
+[Wed Mar 20 18:13:26 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/phpmyadmin
+[Wed Mar 20 18:13:29 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/phpMyAdmin-2
+[Wed Mar 20 18:13:29 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/php-my-admin
+[Wed Mar 20 18:13:38 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/phpMyAdmin-2.5.4
+[Wed Mar 20 18:13:39 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/phpMyAdmin-2.5.5-rc1
+[Wed Mar 20 18:13:39 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/phpMyAdmin-2.5.5-rc2
+[Wed Mar 20 18:13:42 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/phpMyAdmin-2.5.5-pl1
+[Wed Mar 20 18:13:42 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/phpMyAdmin-2.5.6-rc1
+[Wed Mar 20 18:13:42 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/phpMyAdmin-2.5.6-rc2
+[Wed Mar 20 18:13:45 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/phpMyAdmin-2.5.7
+[Wed Mar 20 18:13:45 2013] [error] [client 198.7.57.74] File does not exist: /var/www/nathancazell.com/phpMyAdmin-2.5.7-pl1
+[Wed Mar 20 21:46:26 2013] [error] [client 69.58.178.58] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Mar 20 21:46:27 2013] [error] [client 69.58.178.58] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Mar 21 05:47:27 2013] [error] [client 180.76.5.168] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Mar 21 07:08:18 2013] [error] [client 66.249.73.42] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Mar 21 10:34:37 2013] [error] [client 66.249.74.197] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Mar 21 18:12:34 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Fri Mar 22 03:22:49 2013] [error] [client 66.249.74.91] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Mar 22 20:28:10 2013] [error] [client 66.249.76.144] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Mar 23 03:19:45 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Sat Mar 23 23:59:23 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Sun Mar 24 07:08:19 2013] [error] [client 66.249.76.117] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Mar 24 23:37:02 2013] [error] [client 157.56.93.193] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Mar 25 02:14:18 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Mon Mar 25 08:30:45 2013] [error] [client 66.193.171.205] File does not exist: /var/www/nathancazell.com/user
+[Mon Mar 25 18:36:35 2013] [error] [client 198.20.69.74] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Mar 25 20:34:20 2013] [error] [client 93.174.88.31] script '/var/www/nathancazell.com/headers.php' not found or unable to stat
+[Mon Mar 25 22:34:48 2013] [error] [client 65.55.52.88] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Mar 25 22:48:33 2013] [error] [client 37.57.25.55] script '/var/www/nathancazell.com/wp-login.php' not found or unable to stat, referer: NATHANCAZELL.COM/wp-login.php
+[Tue Mar 26 10:32:33 2013] [error] [client 65.55.52.88] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Mar 26 12:10:33 2013] [error] [client 198.20.69.74] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Mar 26 13:35:58 2013] [error] [client 192.168.1.100] File does not exist: /var/www/nathancazell.com/videostream.cgi, referer: http://sliders.vidfeed.net/vidfeed.php
+[Tue Mar 26 16:26:29 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Tue Mar 26 18:40:39 2013] [error] [client 66.249.76.144] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Mar 26 22:35:15 2013] [error] [client 65.55.52.88] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Mar 27 02:20:01 2013] [error] [client 64.246.165.160] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Mar 27 03:30:50 2013] [error] [client 64.246.161.42] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Mar 27 03:59:05 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Wed Mar 27 06:04:20 2013] [error] [client 92.103.65.162] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /w00tw00t.at.ISC.SANS.DFind:)
+[Wed Mar 27 06:07:58 2013] [error] [client 92.103.65.162] File does not exist: /var/www/nathancazell.com/admin
+[Wed Mar 27 06:07:59 2013] [error] [client 92.103.65.162] File does not exist: /var/www/nathancazell.com/phpmyadmin
+[Wed Mar 27 06:07:59 2013] [error] [client 92.103.65.162] File does not exist: /var/www/nathancazell.com/phpMyAdmin
+[Wed Mar 27 06:08:00 2013] [error] [client 92.103.65.162] File does not exist: /var/www/nathancazell.com/db
+[Wed Mar 27 06:08:00 2013] [error] [client 92.103.65.162] File does not exist: /var/www/nathancazell.com/PMA
+[Wed Mar 27 06:08:02 2013] [error] [client 92.103.65.162] client denied by server configuration: /usr/share/phpmyadmin/libraries/select_lang.lib.php
+[Wed Mar 27 07:08:20 2013] [error] [client 66.249.76.117] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Mar 27 09:45:38 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Wed Mar 27 10:34:32 2013] [error] [client 65.55.52.88] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Mar 27 16:43:53 2013] [error] [client 131.253.24.15] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Mar 27 21:53:19 2013] [error] [client 65.55.215.102] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Mar 27 23:30:49 2013] [error] [client 157.55.32.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Mar 28 00:04:52 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Thu Mar 28 02:11:36 2013] [error] [client 66.249.76.144] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Mar 28 04:43:35 2013] [error] [client 199.30.16.12] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Mar 28 10:38:15 2013] [error] [client 157.55.32.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Mar 28 17:51:59 2013] [error] [client 66.249.75.144] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Mar 28 19:56:27 2013] [error] [client 157.55.32.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Mar 29 02:56:24 2013] [error] [client 64.246.165.50] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Mar 29 03:53:11 2013] [error] [client 66.193.171.246] File does not exist: /var/www/nathancazell.com/user
+[Fri Mar 29 08:02:16 2013] [error] [client 157.55.32.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Mar 29 10:54:19 2013] [error] [client 94.142.155.123] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Mar 29 11:23:12 2013] [error] [client 157.55.32.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Mar 29 20:29:00 2013] [error] [client 157.55.32.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Mar 29 21:07:55 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Sat Mar 30 06:03:58 2013] [error] [client 157.55.32.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Mar 30 07:22:43 2013] [error] [client 157.55.32.60] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Mar 30 07:25:31 2013] [error] [client 157.55.32.60] File does not exist: /var/www/nathancazell.com/serverinfo.html
+[Sat Mar 30 09:37:04 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Sat Mar 30 11:47:21 2013] [error] [client 82.138.16.125] File does not exist: /var/www/nathancazell.com/manager
+[Sat Mar 30 17:15:24 2013] [error] [client 157.55.32.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Mar 31 05:18:05 2013] [error] [client 157.55.32.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 01 05:21:09 2013] [error] [client 157.55.32.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 01 06:51:01 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Mon Apr 01 08:22:33 2013] [error] [client 66.249.76.117] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 01 15:43:19 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Mon Apr 01 19:14:26 2013] [error] [client 157.55.32.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 01 20:45:45 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Tue Apr 02 00:36:54 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Tue Apr 02 07:12:37 2013] [error] [client 157.55.32.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Apr 02 07:51:39 2013] [error] [client 199.30.20.21] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Apr 02 11:21:20 2013] [error] [client 199.30.16.22] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Apr 02 19:07:04 2013] [error] [client 157.55.32.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 03 06:25:30 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Wed Apr 03 08:11:10 2013] [error] [client 157.55.32.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 03 09:57:22 2013] [error] [client 66.55.152.251] script '/var/www/nathancazell.com/ua.php' not found or unable to stat
+[Wed Apr 03 12:17:58 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/aop0igj.php' not found or unable to stat
+[Wed Apr 03 15:51:42 2013] [error] [client 173.204.19.9] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 03 16:04:57 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 03 16:07:39 2013] [error] [client 157.55.32.116] script '/var/www/nathancazell.com/tutorials.php' not found or unable to stat
+[Wed Apr 03 19:50:08 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed Apr 03 19:50:11 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed Apr 03 20:04:59 2013] [error] [client 157.55.32.153] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 03 20:58:00 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed Apr 03 20:58:00 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed Apr 03 22:36:56 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed Apr 03 22:36:56 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed Apr 03 22:38:28 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed Apr 03 22:38:28 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed Apr 03 22:41:18 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed Apr 03 22:41:18 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed Apr 03 23:32:27 2013] [error] [client 66.249.74.91] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 04 07:56:15 2013] [error] [client 157.55.36.45] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 04 13:55:43 2013] [error] [client 123.125.71.71] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 04 20:24:48 2013] [error] [client 157.55.36.45] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 04 21:05:31 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Fri Apr 05 03:58:48 2013] [error] [client 157.55.36.45] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 05 06:11:47 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Fri Apr 05 06:35:35 2013] [error] [client 65.55.24.247] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 05 08:28:34 2013] [error] [client 157.55.36.45] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 05 12:43:27 2013] [error] [client 220.181.108.154] Directory index forbidden by Options directive: /var/www/nathancazell.com/css/
+[Fri Apr 05 14:44:54 2013] [error] [client 123.125.71.71] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 05 18:28:57 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Fri Apr 05 20:32:21 2013] [error] [client 157.55.35.32] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 05 21:33:31 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Fri Apr 05 23:17:44 2013] [error] [client 157.55.33.248] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Apr 06 07:21:04 2013] [error] [client 220.181.108.169] Directory index forbidden by Options directive: /var/www/nathancazell.com/css/
+[Sat Apr 06 08:26:15 2013] [error] [client 157.55.33.248] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Apr 06 17:03:45 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Sat Apr 06 17:18:04 2013] [error] [client 123.125.71.87] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Apr 06 17:23:47 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Sat Apr 06 17:23:50 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/TEADevInfo
+[Sat Apr 06 17:23:53 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Sat Apr 06 20:34:07 2013] [error] [client 157.55.33.248] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Apr 07 12:54:46 2013] [error] [client 157.56.229.23] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Apr 07 13:18:24 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Sun Apr 07 14:15:51 2013] [error] [client 113.203.180.31] File does not exist: /var/www/nathancazell.com/wp-admin
+[Sun Apr 07 15:39:00 2013] [error] [client 123.125.71.27] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Apr 07 19:54:49 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Sun Apr 07 19:54:52 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/TEADevInfo
+[Sun Apr 07 19:54:55 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Sun Apr 07 20:14:51 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Sun Apr 07 20:14:54 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/TEADevInfo
+[Sun Apr 07 20:14:57 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Sun Apr 07 20:29:37 2013] [error] [client 157.56.92.157] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Apr 07 20:57:01 2013] [error] [client 69.64.32.191] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Sun Apr 07 20:57:04 2013] [error] [client 69.64.32.191] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Apr 07 23:40:46 2013] [error] [client 192.168.1.1] File does not exist: /var/www/nathancazell.com/mail
+[Mon Apr 08 05:33:23 2013] [error] [client 216.145.5.42] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 08 07:10:41 2013] [error] [client 64.246.161.190] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 08 08:34:24 2013] [error] [client 157.56.92.157] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 08 09:28:02 2013] [error] [client 157.55.32.58] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 08 09:31:38 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Mon Apr 08 11:47:33 2013] [error] [client 123.125.71.28] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 08 13:25:14 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/aop0igj.php' not found or unable to stat
+[Mon Apr 08 14:00:28 2013] [error] [client 157.56.92.157] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 08 19:07:41 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 08 19:07:41 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 08 21:03:00 2013] [error] [client 157.55.32.56] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 08 22:28:06 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Tue Apr 09 05:18:16 2013] [error] [client 65.55.52.119] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Apr 09 08:01:51 2013] [error] [client 201.79.244.252] File does not exist: /var/www/nathancazell.com/wp-admin
+[Tue Apr 09 09:17:15 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Tue Apr 09 10:37:58 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Tue Apr 09 13:09:20 2013] [error] [client 123.125.71.110] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Apr 09 16:26:05 2013] [error] [client 65.55.52.119] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Apr 09 18:37:29 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Tue Apr 09 19:42:42 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/aop0igj.php' not found or unable to stat
+[Tue Apr 09 21:44:07 2013] [error] [client 199.30.20.122] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 10 03:00:27 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Wed Apr 10 04:04:04 2013] [error] [client 69.64.52.207] File does not exist: /var/www/nathancazell.com/manager
+[Wed Apr 10 04:15:17 2013] [error] [client 176.119.240.2] File does not exist: /var/www/nathancazell.com/wp-admin
+[Wed Apr 10 04:15:18 2013] [error] [client 176.119.240.2] File does not exist: /var/www/nathancazell.com/wordpress
+[Wed Apr 10 04:15:18 2013] [error] [client 176.119.240.2] File does not exist: /var/www/nathancazell.com/blog
+[Wed Apr 10 04:15:19 2013] [error] [client 176.119.240.2] File does not exist: /var/www/nathancazell.com/wp-admin
+[Wed Apr 10 05:44:09 2013] [error] [client 64.246.165.50] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 10 07:20:20 2013] [error] [client 69.58.178.56] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 10 07:20:21 2013] [error] [client 69.58.178.56] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 10 08:46:49 2013] [error] [client 65.55.52.119] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 10 08:53:28 2013] [error] [client 151.246.44.211] File does not exist: /var/www/nathancazell.com/wp-admin
+[Wed Apr 10 09:59:37 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Wed Apr 10 13:56:47 2013] [error] [client 81.89.48.239] script '/var/www/nathancazell.com/README.php' not found or unable to stat
+[Wed Apr 10 13:56:48 2013] [error] [client 81.89.48.239] File does not exist: /var/www/nathancazell.com/horde
+[Wed Apr 10 16:17:40 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed Apr 10 16:17:42 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed Apr 10 17:12:56 2013] [error] [client 65.55.52.119] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 10 17:20:14 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Wed Apr 10 22:42:13 2013] [error] [client 157.56.93.205] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 11 00:05:57 2013] [error] [client 66.249.73.21] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 11 02:45:21 2013] [error] [client 157.55.33.20] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 11 04:00:22 2013] [error] [client 65.55.52.119] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 11 05:15:14 2013] [error] [client 89.248.172.10] File does not exist: /var/www/nathancazell.com/w00tw00t.at.blackhats.romanian.anti-sec:)
+[Thu Apr 11 05:15:15 2013] [error] [client 89.248.172.10] File does not exist: /var/www/nathancazell.com/phpMyAdmin
+[Thu Apr 11 05:15:15 2013] [error] [client 89.248.172.10] File does not exist: /var/www/nathancazell.com/phpmyadmin
+[Thu Apr 11 05:15:15 2013] [error] [client 89.248.172.10] File does not exist: /usr/share/phpmyadmin/scripts
+[Thu Apr 11 05:15:15 2013] [error] [client 89.248.172.10] File does not exist: /var/www/nathancazell.com/myadmin
+[Thu Apr 11 05:15:16 2013] [error] [client 89.248.172.10] File does not exist: /var/www/nathancazell.com/MyAdmin
+[Thu Apr 11 12:10:05 2013] [error] [client 123.125.71.100] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 11 13:39:35 2013] [error] [client 66.249.73.21] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 11 15:34:07 2013] [error] [client 65.55.52.119] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 11 18:38:45 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Thu Apr 11 18:38:48 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/TEADevInfo
+[Thu Apr 11 18:38:52 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Thu Apr 11 19:41:10 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Thu Apr 11 19:56:18 2013] [error] [client 65.55.215.63] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 11 20:55:51 2013] [error] [client 157.56.93.50] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 11 21:55:09 2013] [error] [client 161.67.130.150] File does not exist: /var/www/nathancazell.com/manager
+[Thu Apr 11 22:45:29 2013] [error] [client 75.55.97.119] File does not exist: /var/www/nathancazell.com/manager
+[Fri Apr 12 01:43:42 2013] [error] [client 199.30.16.30] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 12 02:42:11 2013] [error] [client 222.255.133.51] File does not exist: /var/www/nathancazell.com/wp-admin
+[Fri Apr 12 02:43:06 2013] [error] [client 94.154.27.8] File does not exist: /var/www/nathancazell.com/wp-admin
+[Fri Apr 12 02:43:21 2013] [error] [client 94.154.27.8] File does not exist: /var/www/nathancazell.com/wordpress
+[Fri Apr 12 02:43:39 2013] [error] [client 94.154.27.8] File does not exist: /var/www/nathancazell.com/wp-admin
+[Fri Apr 12 02:49:24 2013] [error] [client 157.56.93.50] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 12 03:57:00 2013] [error] [client 36.70.189.160] File does not exist: /var/www/nathancazell.com/wp-admin
+[Fri Apr 12 04:52:33 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Fri Apr 12 06:39:12 2013] [error] [client 199.217.115.189] script '/var/www/nathancazell.com/wp-login.php' not found or unable to stat
+[Fri Apr 12 11:05:18 2013] [error] [client 66.249.73.42] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 12 11:30:08 2013] [error] [client 66.249.73.21] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 12 12:04:14 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Fri Apr 12 12:04:14 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Fri Apr 12 14:40:23 2013] [error] [client 157.55.33.20] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 12 16:13:33 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Fri Apr 12 16:13:33 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Fri Apr 12 16:57:18 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Fri Apr 12 18:26:17 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Fri Apr 12 18:26:17 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Fri Apr 12 18:41:03 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Fri Apr 12 18:41:03 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Fri Apr 12 18:58:12 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Fri Apr 12 18:58:12 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Fri Apr 12 21:22:02 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Fri Apr 12 21:22:02 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Fri Apr 12 22:52:01 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Sat Apr 13 02:20:55 2013] [error] [client 157.55.36.39] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Apr 13 04:04:19 2013] [error] [client 176.10.35.241] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Apr 13 13:53:13 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Sat Apr 13 14:27:09 2013] [error] [client 77.27.239.159] File does not exist: /var/www/nathancazell.com/manager
+[Sun Apr 14 01:56:25 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Sun Apr 14 07:03:44 2013] [error] [client 157.56.93.212] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 15 05:49:42 2013] [error] [client 66.249.74.91] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 15 16:06:58 2013] [error] [client 123.125.71.58] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 15 18:49:23 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 15 18:49:23 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 15 20:44:59 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 15 20:44:59 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Apr 16 00:01:31 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Tue Apr 16 17:07:03 2013] [error] [client 157.55.35.88] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Apr 16 17:07:11 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Apr 16 17:07:12 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Apr 16 17:09:39 2013] [error] [client 157.55.35.88] File does not exist: /var/www/nathancazell.com/serverinfo.html
+[Wed Apr 17 12:18:55 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed Apr 17 12:18:55 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed Apr 17 12:19:44 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed Apr 17 12:19:44 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed Apr 17 15:44:23 2013] [error] [client 123.125.71.75] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 17 20:42:31 2013] [error] [client 157.56.93.150] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 18 00:49:37 2013] [error] [client 69.58.178.58] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 18 00:49:38 2013] [error] [client 69.58.178.58] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 18 06:09:56 2013] [error] [client 123.125.71.53] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 18 18:34:20 2013] [error] [client 198.20.69.74] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 18 21:51:15 2013] [error] [client 157.56.93.202] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 19 00:05:05 2013] [error] [client 198.20.69.74] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 19 01:06:25 2013] [error] [client 157.55.32.115] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 19 04:46:33 2013] [error] [client 66.249.73.21] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 19 05:50:03 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Fri Apr 19 11:15:53 2013] [error] [client 173.204.19.4] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 19 12:08:46 2013] [error] [client 64.246.165.140] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 19 15:36:20 2013] [error] [client 64.246.165.190] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 19 15:58:20 2013] [error] [client 157.55.32.56] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 19 16:12:13 2013] [error] [client 123.125.71.99] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 19 18:47:57 2013] [error] [client 66.249.75.144] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 19 21:03:28 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Sat Apr 20 02:16:17 2013] [error] [client 66.193.171.233] File does not exist: /var/www/nathancazell.com/user
+[Sat Apr 20 07:40:36 2013] [error] [client 157.56.229.244] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Apr 20 12:15:08 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Sat Apr 20 14:01:43 2013] [error] [client 157.55.32.111] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Apr 20 14:21:38 2013] [error] [client 69.58.178.58] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Apr 20 14:21:39 2013] [error] [client 69.58.178.58] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Apr 20 16:17:25 2013] [error] [client 65.55.55.231] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Apr 20 17:30:54 2013] [error] [client 157.55.35.114] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Apr 21 01:49:16 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Apr 21 01:50:59 2013] [error] [client 157.55.32.116] script '/var/www/nathancazell.com/tutorials.php' not found or unable to stat
+[Sun Apr 21 10:12:21 2013] [error] [client 157.55.32.188] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Apr 21 11:59:02 2013] [error] [client 123.125.71.42] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Apr 21 13:58:46 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sun Apr 21 13:58:46 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sun Apr 21 14:00:08 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sun Apr 21 14:00:08 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sun Apr 21 15:16:25 2013] [error] [client 157.55.33.14] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Apr 21 15:30:44 2013] [error] [client 216.145.14.142] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Apr 21 17:07:58 2013] [error] [client 198.20.69.74] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Apr 21 20:54:56 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sun Apr 21 20:54:56 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 22 00:21:28 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/aop0igj.php' not found or unable to stat
+[Mon Apr 22 04:18:55 2013] [error] [client 157.55.33.14] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 22 06:18:56 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Mon Apr 22 12:30:02 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Mon Apr 22 12:45:47 2013] [error] [client 123.125.71.12] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 22 12:55:37 2013] [error] [client 77.78.109.71] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 22 15:03:06 2013] [error] [client 198.20.69.74] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 22 15:15:53 2013] [error] [client 157.55.32.93] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 22 16:55:58 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 22 16:55:58 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 22 16:58:27 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 22 16:58:27 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 22 17:15:48 2013] [error] [client 157.56.93.51] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 22 18:35:04 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Tue Apr 23 01:47:20 2013] [error] [client 157.56.92.148] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Apr 23 04:12:15 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Apr 23 10:50:05 2013] [error] [client 123.125.71.112] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Apr 23 13:11:33 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Apr 23 13:11:33 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Apr 23 13:23:28 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Apr 23 13:23:28 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Apr 23 14:22:50 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Tue Apr 23 14:42:52 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Tue Apr 23 14:42:55 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/TEADevInfo
+[Tue Apr 23 14:42:58 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Tue Apr 23 15:30:34 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Apr 23 16:26:56 2013] [error] [client 95.110.65.243] script '/var/www/nathancazell.com/admin.php' not found or unable to stat
+[Tue Apr 23 16:26:57 2013] [error] [client 95.110.65.243] File does not exist: /var/www/nathancazell.com/administrator
+[Tue Apr 23 16:26:57 2013] [error] [client 95.110.65.243] script '/var/www/nathancazell.com/wp-login.php' not found or unable to stat
+[Tue Apr 23 16:42:56 2013] [error] [client 157.56.92.146] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Apr 23 23:19:53 2013] [error] [client 66.249.73.42] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 24 00:30:45 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Wed Apr 24 01:43:23 2013] [error] [client 157.56.92.146] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 24 02:47:28 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 24 06:14:56 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Wed Apr 24 07:31:43 2013] [error] [client 199.30.16.20] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 24 07:58:03 2013] [error] [client 65.55.24.220] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 24 09:06:31 2013] [error] [client 157.55.33.98] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 24 09:07:17 2013] [error] [client 199.30.16.32] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 24 11:15:32 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed Apr 24 11:15:32 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed Apr 24 13:30:25 2013] [error] [client 157.56.92.146] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 24 14:11:46 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 24 15:35:26 2013] [error] [client 65.55.215.60] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Apr 24 17:43:55 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/aop0igj.php' not found or unable to stat
+[Wed Apr 24 19:13:26 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed Apr 24 19:13:26 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Thu Apr 25 01:04:33 2013] [error] [client 157.56.92.146] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 25 02:04:38 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 25 04:39:45 2013] [error] [client 65.55.24.220] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 25 07:18:12 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Thu Apr 25 07:18:12 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Thu Apr 25 09:38:02 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Thu Apr 25 09:38:02 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Thu Apr 25 12:46:23 2013] [error] [client 157.56.92.146] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 25 14:30:34 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Apr 25 19:05:50 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Thu Apr 25 19:05:50 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Fri Apr 26 00:32:20 2013] [error] [client 65.55.52.114] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 26 00:33:45 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Fri Apr 26 01:18:20 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 26 01:26:30 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Fri Apr 26 04:23:07 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/aop0igj.php' not found or unable to stat
+[Fri Apr 26 04:34:13 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Fri Apr 26 04:34:16 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/TEADevInfo
+[Fri Apr 26 04:34:20 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Fri Apr 26 06:52:57 2013] [error] [client 65.55.52.114] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 26 07:34:36 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Fri Apr 26 07:34:39 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/TEADevInfo
+[Fri Apr 26 07:34:42 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Fri Apr 26 07:43:17 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 26 13:33:24 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Fri Apr 26 13:33:24 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Fri Apr 26 13:44:46 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Fri Apr 26 13:44:46 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Fri Apr 26 17:02:50 2013] [error] [client 123.125.71.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 26 17:56:23 2013] [error] [client 65.55.52.114] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 26 20:28:10 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Apr 26 21:44:47 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Fri Apr 26 21:44:47 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Fri Apr 26 21:59:03 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/aop0igj.php' not found or unable to stat
+[Sat Apr 27 03:52:53 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Sat Apr 27 05:31:17 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sat Apr 27 05:31:17 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sat Apr 27 06:46:52 2013] [error] [client 157.55.35.90] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Apr 27 07:37:51 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Apr 27 12:57:02 2013] [error] [client 220.181.108.114] Directory index forbidden by Options directive: /var/www/nathancazell.com/css/
+[Sat Apr 27 13:11:24 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sat Apr 27 13:11:33 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sat Apr 27 14:43:41 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sat Apr 27 14:43:41 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sat Apr 27 16:39:01 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Sat Apr 27 17:39:30 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sat Apr 27 17:39:30 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sat Apr 27 18:32:47 2013] [error] [client 157.55.35.90] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Apr 27 19:27:40 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Apr 27 23:44:57 2013] [error] [client 65.55.24.220] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Apr 28 00:47:37 2013] [error] [client 157.55.33.98] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Apr 28 03:17:11 2013] [error] [client 157.55.35.36] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Apr 28 06:18:18 2013] [error] [client 157.55.35.90] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Apr 28 07:41:12 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Apr 28 08:25:13 2013] [error] [client 130.185.109.239] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Apr 28 12:13:28 2013] [error] [client 220.181.108.187] File does not exist: /var/www/nathancazell.com/TAimages
+[Sun Apr 28 20:53:04 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sun Apr 28 20:53:04 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sun Apr 28 20:54:16 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sun Apr 28 20:54:16 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sun Apr 28 21:00:20 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sun Apr 28 21:00:20 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sun Apr 28 21:11:03 2013] [error] [client 66.249.76.144] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Apr 28 21:17:23 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sun Apr 28 21:17:23 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sun Apr 28 21:18:40 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sun Apr 28 21:18:40 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sun Apr 28 21:54:50 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sun Apr 28 21:54:50 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Sun Apr 28 22:34:47 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 29 03:08:35 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 03:08:35 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 03:54:04 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 03:54:04 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 05:34:31 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 05:34:31 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 06:11:41 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 06:11:41 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 06:26:32 2013] [error] [client 157.56.93.42] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 29 07:08:38 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 29 10:07:33 2013] [error] [client 123.125.71.55] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 29 12:02:36 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 12:02:36 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 12:34:31 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 12:34:31 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 12:34:33 2013] [error] [client 66.249.76.144] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Apr 29 13:47:21 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 13:47:21 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 13:54:43 2013] [error] [client 98.230.102.4] File does not exist: /var/www/nathancazell.com/HNAP1
+[Mon Apr 29 14:03:36 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 14:03:36 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 14:17:26 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 14:17:26 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 14:21:59 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 14:21:59 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 14:36:48 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 14:36:48 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 14:46:55 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 14:46:55 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 14:52:36 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 14:52:36 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 15:01:07 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 15:01:07 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 15:16:33 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 15:16:33 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 15:21:05 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 15:21:05 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 15:31:08 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 15:31:08 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 15:36:21 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 15:36:21 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 15:41:20 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 15:41:20 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 15:46:04 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 15:46:04 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 15:51:51 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 15:51:51 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 16:01:38 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 16:01:38 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 16:14:36 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 16:14:36 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 16:22:08 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 16:22:08 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 16:37:01 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 16:37:01 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 18:06:56 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 18:06:56 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 18:21:52 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 18:21:52 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 18:51:51 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 18:51:51 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 19:01:51 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 19:01:51 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 19:37:18 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 19:37:18 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Mon Apr 29 19:58:36 2013] [error] [client 157.55.34.168] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Apr 30 00:48:25 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Apr 30 00:48:25 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Apr 30 00:55:29 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Apr 30 00:55:29 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Apr 30 03:12:13 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Tue Apr 30 03:49:00 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Apr 30 03:49:00 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Apr 30 04:16:04 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Apr 30 04:16:04 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Apr 30 07:21:25 2013] [error] [client 157.55.33.98] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Apr 30 07:51:09 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Apr 30 10:33:05 2013] [error] [client 123.125.71.94] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Apr 30 15:32:48 2013] [error] [client 157.55.33.98] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Apr 30 16:47:39 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Apr 30 20:16:40 2013] [error] [client 187.107.101.38] File does not exist: /var/www/nathancazell.com/manager
+[Tue Apr 30 20:54:26 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Apr 30 20:54:26 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Apr 30 22:55:43 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Apr 30 22:55:43 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Apr 30 23:46:17 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Apr 30 23:46:17 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Apr 30 23:55:15 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Wed May 01 02:57:36 2013] [error] [client 157.55.33.98] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 01 04:24:05 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed May 01 04:24:05 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed May 01 06:07:05 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 01 09:47:55 2013] [error] [client 123.125.71.92] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 01 10:35:48 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed May 01 10:35:48 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed May 01 11:06:47 2013] [error] [client 64.246.165.210] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 01 11:45:36 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Wed May 01 12:51:59 2013] [error] [client 64.246.161.42] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 01 14:51:43 2013] [error] [client 157.55.33.98] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 01 17:34:11 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 01 20:45:48 2013] [error] [client 66.249.75.144] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 01 22:03:40 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed May 01 22:03:40 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed May 01 22:08:21 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed May 01 22:08:21 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed May 01 22:18:03 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed May 01 22:18:03 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed May 01 22:28:51 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Wed May 01 22:28:51 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Thu May 02 03:01:25 2013] [error] [client 157.55.33.98] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu May 02 03:12:09 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Thu May 02 03:12:09 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Thu May 02 04:09:30 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Thu May 02 04:09:30 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Thu May 02 05:21:31 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Thu May 02 05:56:48 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu May 02 06:11:09 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Thu May 02 06:11:09 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Thu May 02 13:27:36 2013] [error] [client 94.142.155.123] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu May 02 15:38:10 2013] [error] [client 157.55.33.98] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu May 02 15:55:19 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Thu May 02 15:55:19 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Thu May 02 16:17:05 2013] [error] [client 123.125.71.71] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu May 02 17:23:46 2013] [error] [client 157.55.32.116] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon May 13 10:52:42 2013] [error] [client 66.249.73.38] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon May 13 11:37:21 2013] [error] [client 66.249.73.191] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon May 13 11:42:35 2013] [error] [client 157.56.93.222] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon May 13 13:09:25 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Mon May 13 18:33:16 2013] [error] [client 157.56.93.222] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon May 13 18:36:05 2013] [error] [client 157.55.32.103] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon May 13 21:22:51 2013] [error] [client 157.55.36.37] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon May 13 21:24:33 2013] [error] [client 157.55.36.37] script '/var/www/nathancazell.com/tutorials.php' not found or unable to stat
+[Mon May 13 22:09:07 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Tue May 14 01:04:11 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/aop0igj.php' not found or unable to stat
+[Tue May 14 08:53:28 2013] [error] [client 157.56.93.204] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 14 09:30:52 2013] [error] [client 157.55.32.103] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 14 10:44:58 2013] [error] [client 198.20.69.74] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 14 11:08:21 2013] [error] [client 157.56.93.204] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 14 13:17:00 2013] [error] [client 66.249.73.38] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 14 13:17:00 2013] [error] [client 66.249.73.38] script '/var/www/nathancazell.com/serverinfo.php' not found or unable to stat
+[Tue May 14 18:25:38 2013] [error] [client 157.55.32.95] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 14 18:54:30 2013] [error] [client 157.55.33.78] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 14 21:07:32 2013] [error] [client 157.56.92.153] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 14 21:09:21 2013] [error] [client 157.56.92.153] script '/var/www/nathancazell.com/tutorials.php' not found or unable to stat
+[Wed May 15 02:33:52 2013] [error] [client 157.56.93.154] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 15 04:21:33 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/aop0igj.php' not found or unable to stat
+[Wed May 15 05:51:00 2013] [error] [client 157.56.93.222] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 15 07:02:14 2013] [error] [client 157.55.32.95] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 15 07:25:21 2013] [error] [client 157.55.35.94] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 15 11:48:37 2013] [error] [client 66.249.73.191] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 15 13:23:08 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Wed May 15 15:25:36 2013] [error] [client 123.125.71.88] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 15 17:16:02 2013] [error] [client 94.142.155.123] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 15 18:15:02 2013] [error] [client 157.55.32.95] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 15 19:23:21 2013] [error] [client 157.55.35.114] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 15 19:52:19 2013] [error] [client 157.56.92.153] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 15 19:54:14 2013] [error] [client 157.56.92.153] script '/var/www/nathancazell.com/tutorials.php' not found or unable to stat
+[Thu May 16 06:45:48 2013] [error] [client 157.55.32.95] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu May 16 10:21:52 2013] [error] [client 66.249.73.38] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu May 16 12:24:07 2013] [error] [client 157.55.35.79] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu May 16 12:54:02 2013] [error] [client 70.209.8.124] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Thu May 16 12:54:02 2013] [error] [client 70.209.8.124] File does not exist: /var/www/nathancazell.com/apple-touch-icon-precomposed.png
+[Thu May 16 15:25:13 2013] [error] [client 123.125.71.109] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu May 16 19:08:59 2013] [error] [client 157.55.32.95] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu May 16 19:35:59 2013] [error] [client 157.55.35.79] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri May 17 04:44:06 2013] [error] [client 157.55.32.113] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri May 17 06:29:51 2013] [error] [client 157.55.32.95] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri May 17 06:48:40 2013] [error] [client 157.55.35.79] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri May 17 09:26:54 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/aop0igj.php' not found or unable to stat
+[Fri May 17 09:39:47 2013] [error] [client 123.125.71.58] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri May 17 11:12:10 2013] [error] [client 202.152.86.243] File does not exist: /var/www/nathancazell.com/favicon.ico, referer: http://www.torqq.org/images/gear.png
+[Fri May 17 17:25:44 2013] [error] [client 157.55.32.95] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri May 17 17:49:58 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Fri May 17 19:33:20 2013] [error] [client 69.58.178.56] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri May 17 19:33:21 2013] [error] [client 69.58.178.56] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri May 17 20:42:40 2013] [error] [client 157.56.92.153] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri May 17 20:44:32 2013] [error] [client 157.56.92.153] script '/var/www/nathancazell.com/tutorials.php' not found or unable to stat
+[Fri May 17 21:41:31 2013] [error] [client 66.249.74.113] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat May 18 02:05:33 2013] [error] [client 198.20.69.74] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat May 18 02:58:44 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Sat May 18 05:08:48 2013] [error] [client 157.55.32.95] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat May 18 05:58:44 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Sat May 18 06:06:18 2013] [error] [client 157.55.35.44] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat May 18 07:13:53 2013] [error] [client 85.25.134.59] File does not exist: /var/www/nathancazell.com/robots.txt, referer: http://netcomber.com
+[Sat May 18 07:58:03 2013] [error] [client 123.125.71.23] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat May 18 09:00:39 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/aop0igj.php' not found or unable to stat
+[Sat May 18 17:56:21 2013] [error] [client 157.55.32.95] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat May 18 18:51:09 2013] [error] [client 157.55.33.79] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat May 18 21:55:59 2013] [error] [client 85.25.137.24] File does not exist: /var/www/nathancazell.com/robots.txt, referer: http://netcomber.com
+[Sat May 18 22:24:22 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat May 18 22:27:04 2013] [error] [client 157.55.33.40] script '/var/www/nathancazell.com/tutorials.php' not found or unable to stat
+[Sat May 18 22:37:02 2013] [error] [client 50.59.209.166] File does not exist: /var/www/nathancazell.com/user
+[Sun May 19 03:00:24 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Sun May 19 04:48:43 2013] [error] [client 157.55.32.95] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun May 19 06:41:23 2013] [error] [client 157.55.33.79] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun May 19 12:00:08 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Sun May 19 12:07:38 2013] [error] [client 175.99.91.117] File does not exist: /var/www/nathancazell.com/manager
+[Sun May 19 16:04:59 2013] [error] [client 123.125.71.26] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun May 19 17:32:20 2013] [error] [client 157.55.32.95] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun May 19 18:27:00 2013] [error] [client 157.55.33.79] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun May 19 18:27:19 2013] [error] [client 66.249.76.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon May 20 03:58:17 2013] [error] [client 157.55.32.95] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon May 20 04:32:11 2013] [error] [client 123.125.71.54] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon May 20 08:00:21 2013] [error] [client 65.55.52.115] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon May 20 12:58:56 2013] [error] [client 65.55.24.237] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon May 20 13:01:34 2013] [error] [client 65.55.24.237] File does not exist: /var/www/nathancazell.com/serverinfo.html
+[Mon May 20 13:21:20 2013] [error] [client 69.58.178.59] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon May 20 13:21:21 2013] [error] [client 69.58.178.59] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon May 20 13:38:53 2013] [error] [client 157.55.32.153] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon May 20 16:47:55 2013] [error] [client 157.55.32.95] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon May 20 17:31:42 2013] [error] [client 65.55.52.115] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon May 20 18:27:54 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/aop0igj.php' not found or unable to stat
+[Mon May 20 19:24:36 2013] [error] [client 66.249.76.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 21 03:00:39 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 21 03:02:35 2013] [error] [client 157.55.33.40] script '/var/www/nathancazell.com/tutorials.php' not found or unable to stat
+[Tue May 21 04:11:35 2013] [error] [client 123.125.67.206] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 21 04:49:13 2013] [error] [client 157.55.32.95] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 21 06:13:01 2013] [error] [client 157.56.93.83] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 21 07:58:11 2013] [error] [client 123.125.71.14] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 21 09:24:36 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Tue May 21 09:32:45 2013] [error] [client 65.55.24.237] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 21 09:34:03 2013] [error] [client 65.55.24.237] script '/var/www/nathancazell.com/webcam.php' not found or unable to stat
+[Tue May 21 10:47:56 2013] [error] [client 66.249.76.119] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 21 15:29:03 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Tue May 21 17:55:39 2013] [error] [client 157.55.32.95] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 21 18:17:44 2013] [error] [client 157.56.93.83] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 21 20:25:03 2013] [error] [client 123.125.67.214] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 21 21:29:21 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Tue May 21 22:42:14 2013] [error] [client 66.249.74.86] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 22 00:48:42 2013] [error] [client 85.25.137.24] File does not exist: /var/www/nathancazell.com/robots.txt, referer: http://netcomber.com
+[Wed May 22 03:35:06 2013] [error] [client 85.25.134.59] File does not exist: /var/www/nathancazell.com/robots.txt, referer: http://netcomber.com
+[Wed May 22 05:38:05 2013] [error] [client 123.125.71.58] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 22 06:53:06 2013] [error] [client 85.25.137.24] File does not exist: /var/www/nathancazell.com/robots.txt, referer: http://netcomber.com
+[Wed May 22 07:48:26 2013] [error] [client 157.56.93.83] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 22 08:00:31 2013] [error] [client 157.55.32.95] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 22 08:46:12 2013] [error] [client 211.100.52.214] File does not exist: /var/www/nathancazell.com/translators.html
+[Wed May 22 09:45:53 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Wed May 22 12:15:52 2013] [error] [client 66.249.74.86] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 22 13:31:34 2013] [error] [client 85.25.137.24] File does not exist: /var/www/nathancazell.com/robots.txt, referer: http://netcomber.com
+[Wed May 22 14:20:58 2013] [error] [client 211.100.52.214] File does not exist: /var/www/nathancazell.com/phpmyadmin
+[Wed May 22 17:50:57 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 22 18:44:47 2013] [error] [client 157.55.32.60] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 22 19:03:34 2013] [error] [client 66.249.74.113] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 22 19:30:15 2013] [error] [client 211.100.52.214] File does not exist: /var/www/nathancazell.com/phpMyAdmin
+[Wed May 22 20:39:10 2013] [error] [client 66.56.21.11] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Wed May 22 21:45:27 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Thu May 23 01:00:22 2013] [error] [client 211.100.52.214] File does not exist: /usr/share/phpmyadmin/translators.html
+[Thu May 23 04:43:01 2013] [error] [client 123.125.71.27] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu May 23 06:08:03 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu May 23 06:08:56 2013] [error] [client 157.55.33.182] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu May 23 06:39:41 2013] [error] [client 211.100.52.214] File does not exist: /var/www/nathancazell.com/mysql
+[Thu May 23 06:50:58 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Thu May 23 09:58:49 2013] [error] [client 130.185.109.210] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu May 23 10:10:53 2013] [error] [client 77.78.109.72] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu May 23 13:02:59 2013] [error] [client 157.55.33.182] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu May 23 18:43:20 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri May 24 06:53:32 2013] [error] [client 157.55.35.90] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat May 25 02:05:02 2013] [error] [client 157.55.35.90] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat May 25 09:37:52 2013] [error] [client 216.145.14.142] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat May 25 11:14:32 2013] [error] [client 64.246.178.34] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat May 25 15:21:40 2013] [error] [client 157.55.35.90] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat May 25 18:31:35 2013] [error] [client 66.249.73.38] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun May 26 00:13:34 2013] [error] [client 123.125.71.30] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun May 26 07:32:09 2013] [error] [client 123.125.71.20] Directory index forbidden by Options directive: /var/www/nathancazell.com/css/
+[Sun May 26 09:43:40 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Sun May 26 11:26:11 2013] [error] [client 95.240.240.33] File does not exist: /var/www/nathancazell.com/manager
+[Sun May 26 20:13:03 2013] [error] [client 66.249.73.191] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun May 26 22:03:07 2013] [error] [client 85.25.134.59] File does not exist: /var/www/nathancazell.com/robots.txt, referer: http://netcomber.com
+[Mon May 27 02:26:35 2013] [error] [client 85.25.137.24] File does not exist: /var/www/nathancazell.com/robots.txt, referer: http://netcomber.com
+[Mon May 27 07:45:33 2013] [error] [client 65.55.213.66] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon May 27 08:14:33 2013] [error] [client 64.246.165.50] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon May 27 23:02:04 2013] [error] [client 66.249.73.38] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 28 03:32:59 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/aop0igj.php' not found or unable to stat
+[Tue May 28 06:32:45 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Tue May 28 15:12:54 2013] [error] [client 130.185.109.243] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 28 15:27:44 2013] [error] [client 130.185.109.210] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 28 18:04:33 2013] [error] [client 66.249.73.38] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 28 18:28:23 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Tue May 28 21:22:59 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Tue May 28 22:11:06 2013] [error] [client 199.115.113.98] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue May 28 23:15:51 2013] [error] [client 66.249.73.191] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 29 06:37:00 2013] [error] [client 157.56.93.216] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed May 29 10:54:12 2013] [error] [client 50.16.215.9] File does not exist: /var/www/nathancazell.com/manager
+[Wed May 29 12:22:21 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Wed May 29 16:38:57 2013] [error] [client 178.156.202.2] Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Wed May 29 16:38:58 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/3rdparty
+[Wed May 29 16:38:59 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/81
+[Wed May 29 16:38:59 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/_admin
+[Wed May 29 16:39:00 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/admin
+[Wed May 29 16:39:01 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/Admin
+[Wed May 29 16:39:02 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/administrator
+[Wed May 29 16:39:02 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/admin
+[Wed May 29 16:39:03 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/adminmysql
+[Wed May 29 16:39:04 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/admin
+[Wed May 29 16:39:05 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/Admin
+[Wed May 29 16:39:06 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/Admin
+[Wed May 29 16:39:06 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/admin
+[Wed May 29 16:39:07 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/admin
+[Wed May 29 16:39:07 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/admin
+[Wed May 29 16:39:07 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/admm
+[Wed May 29 16:39:08 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/admn
+[Wed May 29 16:39:09 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/apache-default
+[Wed May 29 16:39:09 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/backup
+[Wed May 29 16:39:10 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/backup
+[Wed May 29 16:39:14 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/bkup
+[Wed May 29 16:39:15 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/bkup
+[Wed May 29 16:39:16 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/blog
+[Wed May 29 16:39:21 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/cpadmindb
+[Wed May 29 16:39:21 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/cpanelmysql
+[Wed May 29 16:39:21 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/cpanelphpmyadmin
+[Wed May 29 16:39:22 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/cpanelsql
+[Wed May 29 16:39:23 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/cpdbadmin
+[Wed May 29 16:39:24 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/cpphpmyadmin
+[Wed May 29 16:39:24 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/database
+[Wed May 29 16:39:25 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/databaseadmin
+[Wed May 29 16:39:25 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/db
+[Wed May 29 16:39:26 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/dbadmin
+[Wed May 29 16:39:26 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/dbAdmin2
+[Wed May 29 16:39:26 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/forum
+[Wed May 29 16:39:31 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/httpdocs
+[Wed May 29 16:39:32 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/myadmin
+[Wed May 29 16:39:32 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/MyAdmin
+[Wed May 29 16:39:32 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/mydatadmin
+[Wed May 29 16:39:34 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/mysql
+[Wed May 29 16:39:37 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/mysqladmin
+[Wed May 29 16:39:39 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/MySQLAdmin
+[Wed May 29 16:39:39 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/mysqladminconfig
+[Wed May 29 16:39:40 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/mysqlmanager
+[Wed May 29 16:39:40 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/padmin
+[Wed May 29 16:39:40 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/php
+[Wed May 29 16:39:41 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpadmin
+[Wed May 29 16:39:41 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpAdmin
+[Wed May 29 16:39:43 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpdb
+[Wed May 29 16:39:43 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpm
+[Wed May 29 16:39:43 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/~
+[Wed May 29 16:39:47 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpmy
+[Wed May 29 16:39:47 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/pHpMy
+[Wed May 29 16:39:48 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpmya
+[Wed May 29 16:39:49 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpMyA
+[Wed May 29 16:39:49 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpmyad
+[Wed May 29 16:39:50 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpMyAdmi
+[Wed May 29 16:39:50 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/_phpmyadmin
+[Wed May 29 16:39:51 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/php-my-admin
+[Wed May 29 16:39:55 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpmy-admin
+[Wed May 29 16:39:55 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpmyadmin
+[Wed May 29 16:39:56 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/_phpMyAdmin
+[Wed May 29 16:39:56 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpMyAdmin
+[Wed May 29 16:39:57 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/_pHpMyAdMiN
+[Wed May 29 16:39:57 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/pHpMyAdMiN
+[Wed May 29 16:39:57 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/_PHPMYADMIN
+[Wed May 29 16:39:58 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/PHPMYADMIN
+[Wed May 29 16:39:59 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpmyadmin1
+[Wed May 29 16:39:59 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpMyAdmin1
+[Wed May 29 16:40:03 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpMyAdmin-2
+[Wed May 29 16:40:04 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpMyAdmin2
+[Wed May 29 16:40:05 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpmyadmin3
+[Wed May 29 16:40:06 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpMyAdmin-3
+[Wed May 29 16:40:07 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpMyAdmin3
+[Wed May 29 16:40:08 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpMyAdmin-4
+[Wed May 29 16:40:09 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpmyadmin.old
+[Wed May 29 16:40:09 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpMyAds
+[Wed May 29 16:40:09 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/phpmyad-sys
+[Wed May 29 16:40:10 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/php
+[Wed May 29 16:40:16 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/pMA
+[Wed May 29 16:40:17 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/PMA
+[Wed May 29 16:40:18 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/pma2
+[Wed May 29 16:40:22 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/pma2005
+[Wed May 29 16:40:22 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/PMA2005
+[Wed May 29 16:40:23 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/pma2006
+[Wed May 29 16:40:24 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/pma2007
+[Wed May 29 16:40:25 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/pma2008
+[Wed May 29 16:40:30 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/PMA2009
+[Wed May 29 16:40:30 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/pma3
+[Wed May 29 16:40:35 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/pmadmin
+[Wed May 29 16:40:35 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/roundcube
+[Wed May 29 16:40:37 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/sl2
+[Wed May 29 16:40:37 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/sql
+[Wed May 29 16:40:37 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/SQL
+[Wed May 29 16:40:38 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/sqladmin
+[Wed May 29 16:40:39 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/sqlmanager
+[Wed May 29 16:40:40 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/sql
+[Wed May 29 16:40:40 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/sql
+[Wed May 29 16:40:40 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/sqlweb
+[Wed May 29 16:40:41 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/SSLMySQLAdmin
+[Wed May 29 16:40:41 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/typo3
+[Wed May 29 16:40:42 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/vhcs2
+[Wed May 29 16:40:44 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/web
+[Wed May 29 16:40:46 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/webadmin
+[Wed May 29 16:40:46 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/webdb
+[Wed May 29 16:40:48 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/web
+[Wed May 29 16:40:48 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/web
+[Wed May 29 16:40:48 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/websql
+[Wed May 29 16:40:49 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/wp-content
+[Wed May 29 16:40:49 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/wp-phpmyadmin
+[Wed May 29 16:40:49 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/wp-phpmyadmin
+[Wed May 29 16:40:50 2013] [error] [client 178.156.202.2] File does not exist: /var/www/nathancazell.com/xampp
+[Wed May 29 17:56:49 2013] [error] [client 66.249.73.38] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu May 30 00:15:27 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Thu May 30 03:16:40 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/aop0igj.php' not found or unable to stat
+[Thu May 30 12:14:17 2013] [error] [client 157.56.93.186] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu May 30 15:52:07 2013] [error] [client 66.249.73.191] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu May 30 15:53:21 2013] [error] [client 66.249.73.38] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu May 30 17:57:24 2013] [error] [client 157.56.93.186] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri May 31 05:41:22 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri May 31 06:18:44 2013] [error] [client 157.56.93.186] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri May 31 10:51:36 2013] [error] [client 218.85.157.55] File does not exist: /var/www/nathancazell.com/user
+[Fri May 31 10:54:42 2013] [error] [client 66.249.72.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri May 31 14:50:40 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/aop0igj.php' not found or unable to stat
+[Fri May 31 17:30:32 2013] [error] [client 95.48.25.90] File does not exist: /var/www/nathancazell.com/w00tw00t.at.blackhats.romanian.anti-sec:)
+[Fri May 31 17:30:32 2013] [error] [client 95.48.25.90] File does not exist: /var/www/nathancazell.com/phpMyAdmin
+[Fri May 31 17:30:32 2013] [error] [client 95.48.25.90] File does not exist: /var/www/nathancazell.com/phpmyadmin
+[Fri May 31 17:30:33 2013] [error] [client 95.48.25.90] File does not exist: /var/www/nathancazell.com/admin
+[Fri May 31 17:30:33 2013] [error] [client 95.48.25.90] File does not exist: /usr/share/phpmyadmin/scripts
+[Fri May 31 17:30:33 2013] [error] [client 95.48.25.90] File does not exist: /var/www/nathancazell.com/mysql
+[Fri May 31 18:55:32 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri May 31 19:29:42 2013] [error] [client 157.55.32.112] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri May 31 20:40:26 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Sat Jun 01 00:29:38 2013] [error] [client 177.19.226.157] File does not exist: /var/www/nathancazell.com/manager
+[Sat Jun 01 03:23:31 2013] [error] [client 64.74.215.126] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Jun 01 05:58:45 2013] [error] [client 157.56.93.217] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Jun 01 06:57:53 2013] [error] [client 218.55.226.170] File does not exist: /var/www/nathancazell.com/manager
+[Sat Jun 01 07:44:11 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Jun 01 08:41:03 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/aop0igj.php' not found or unable to stat
+[Sat Jun 01 12:36:25 2013] [error] [client 88.198.184.253] script '/var/www/nathancazell.com/wp-login.php' not found or unable to stat
+[Sat Jun 01 17:36:47 2013] [error] [client 66.249.73.38] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Jun 01 17:59:33 2013] [error] [client 157.56.93.217] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Jun 01 18:10:44 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Jun 01 20:30:46 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Sat Jun 01 23:28:56 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Sun Jun 02 02:18:23 2013] [error] [client 198.20.69.74] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Jun 02 02:28:41 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Sun Jun 02 02:58:05 2013] [error] [client 221.2.209.46] File does not exist: /var/www/nathancazell.com/manager
+[Sun Jun 02 06:22:28 2013] [error] [client 157.56.93.217] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Jun 02 08:09:43 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Jun 03 10:15:54 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Jun 03 10:22:28 2013] [error] [client 157.56.93.217] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Jun 03 16:31:52 2013] [error] [client 87.244.129.166] File does not exist: /var/www/nathancazell.com/user
+[Mon Jun 03 17:04:37 2013] [error] [client 123.125.71.20] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Jun 03 17:20:59 2013] [error] [client 66.249.73.38] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Jun 03 17:25:11 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Mon Jun 03 19:10:56 2013] [error] [client 157.56.93.217] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Jun 03 19:40:31 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Jun 03 21:32:55 2013] [error] [client 157.56.93.150] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Jun 03 22:29:41 2013] [error] [client 65.55.24.237] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Jun 03 22:38:08 2013] [error] [client 199.115.113.98] File does not exist: /var/www/nathancazell.com/robots.txt, referer: http://domainsigma.com/whois/nathancazell.com
+[Tue Jun 04 00:35:10 2013] [error] [client 85.25.137.24] File does not exist: /var/www/nathancazell.com/robots.txt, referer: http://netcomber.com
+[Tue Jun 04 05:02:42 2013] [error] [client 66.249.73.38] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Jun 04 07:26:00 2013] [error] [client 157.56.93.217] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Jun 04 07:34:10 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Jun 04 09:07:44 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Jun 04 14:14:20 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Tue Jun 04 14:14:48 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Jun 04 14:20:16 2013] [error] [client 157.56.92.162] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Jun 04 17:15:19 2013] [error] [client 66.249.75.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Jun 04 23:04:44 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Wed Jun 05 01:05:41 2013] [error] [client 157.56.93.224] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Jun 05 01:50:37 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Jun 05 02:02:43 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Wed Jun 05 05:58:37 2013] [error] [client 66.249.75.119] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Jun 05 07:57:31 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Wed Jun 05 12:58:27 2013] [error] [client 157.55.36.37] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Jun 05 13:27:23 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Jun 05 17:26:14 2013] [error] [client 64.246.165.50] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Jun 05 18:29:03 2013] [error] [client 64.246.178.34] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Jun 06 02:06:28 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Jun 06 02:27:26 2013] [error] [client 157.55.32.95] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Jun 06 12:54:13 2013] [error] [client 157.55.32.95] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Jun 06 14:12:43 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Jun 06 17:00:50 2013] [error] [client 66.249.72.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Jun 07 01:06:26 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Jun 07 01:34:42 2013] [error] [client 157.55.32.95] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Jun 07 03:30:21 2013] [error] [client 46.19.32.121] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /w00tw00t.at.ISC.SANS.DFind:)
+[Fri Jun 07 11:18:28 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Fri Jun 07 12:37:47 2013] [error] [client 157.55.32.95] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Jun 07 13:06:26 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Jun 07 14:25:28 2013] [error] [client 157.55.32.95] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Jun 07 15:26:44 2013] [error] [client 157.55.32.80] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Jun 07 19:36:24 2013] [error] [client 216.145.17.190] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Jun 07 19:48:29 2013] [error] [client 157.55.32.80] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Jun 07 23:22:29 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/judge.php' not found or unable to stat
+[Sat Jun 08 01:07:50 2013] [error] [client 157.55.35.80] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Jun 08 02:26:33 2013] [error] [client 157.55.35.80] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Jun 08 02:57:50 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Jun 08 03:52:51 2013] [error] [client 157.55.35.80] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Jun 08 04:34:56 2013] [error] [client 66.249.72.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Jun 08 04:41:39 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Jun 08 05:28:47 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Mon Jun 10 02:32:38 2013] [error] [client 66.249.72.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Jun 10 02:46:18 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Mon Jun 10 03:21:21 2013] [error] [client 157.56.93.85] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Jun 10 04:14:59 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Jun 10 06:50:28 2013] [error] [client 69.58.178.56] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Jun 10 06:50:29 2013] [error] [client 69.58.178.56] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Jun 10 07:07:07 2013] [error] [client 66.249.75.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Jun 10 08:47:34 2013] [error] [client 123.125.71.35] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Jun 10 15:43:29 2013] [error] [client 157.56.93.85] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Jun 10 16:22:23 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Mon Jun 10 18:37:38 2013] [error] [client 66.249.75.119] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Jun 11 04:34:01 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Jun 11 08:34:30 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Jun 11 08:34:30 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Jun 11 08:44:18 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Jun 11 08:44:18 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Jun 11 09:06:27 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Tue Jun 11 09:10:20 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Jun 11 09:10:20 2013] [error] [client 85.190.0.3] File does not exist: /var/www/nathancazell.com/freenode-proxy-checker.txt
+[Tue Jun 11 15:56:43 2013] [error] [client 65.55.215.48] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Jun 11 16:49:54 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Tue Jun 11 19:11:26 2013] [error] [client 216.24.200.83] File does not exist: /var/www/nathancazell.com/phppath
+[Tue Jun 11 20:51:09 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/aop0igj.php' not found or unable to stat
+[Tue Jun 11 21:49:50 2013] [error] [client 65.55.215.109] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Jun 12 00:59:38 2013] [error] [client 68.67.54.28] File does not exist: /var/www/nathancazell.com/CFIDE
+[Wed Jun 12 03:26:08 2013] [error] [client 66.249.75.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Jun 12 04:22:41 2013] [error] [client 157.55.33.146] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Jun 12 04:51:58 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Jun 12 05:53:50 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/proxyheader.php' not found or unable to stat
+[Wed Jun 12 15:23:33 2013] [error] [client 66.249.75.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Jun 12 16:26:13 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Wed Jun 12 17:17:45 2013] [error] [client 157.55.33.146] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Jun 13 04:22:59 2013] [error] [client 65.55.52.113] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Jun 13 04:42:32 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Jun 13 16:43:04 2013] [error] [client 65.55.52.113] File does not exist: /var/www/nathancazell.com/robots.txt
+[Thu Jun 13 17:08:36 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Jun 14 00:01:33 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/aop0igj.php' not found or unable to stat
+[Fri Jun 14 02:53:35 2013] [error] [client 66.249.75.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Jun 14 03:03:24 2013] [error] [client 157.55.35.89] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Jun 14 03:47:04 2013] [error] [client 220.181.108.122] Directory index forbidden by Options directive: /var/www/nathancazell.com/css/
+[Fri Jun 14 04:51:43 2013] [error] [client 54.226.1.179] script '/var/www/nathancazell.com/wp-login.php' not found or unable to stat
+[Fri Jun 14 05:24:24 2013] [error] [client 157.55.33.40] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Jun 14 06:02:06 2013] [error] [client 157.56.92.149] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Jun 14 06:49:03 2013] [error] [client 54.226.1.179] script '/var/www/nathancazell.com/wp-login.php' not found or unable to stat
+[Fri Jun 14 07:14:00 2013] [error] [client 66.249.75.119] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Jun 14 07:39:11 2013] [error] [client 81.20.146.229] File does not exist: /var/www/nathancazell.com/phppath
+[Fri Jun 14 07:49:33 2013] [error] [client 66.249.74.113] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Jun 14 12:52:34 2013] [error] [client 157.55.33.78] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Jun 14 12:53:48 2013] [error] [client 123.125.71.71] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Jun 14 18:12:57 2013] [error] [client 157.56.92.149] File does not exist: /var/www/nathancazell.com/robots.txt
+[Fri Jun 14 23:42:00 2013] [error] [client 58.218.199.250] script '/var/www/nathancazell.com/ip.php' not found or unable to stat
+[Sat Jun 15 00:05:05 2013] [error] [client 65.55.215.109] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Jun 15 06:20:30 2013] [error] [client 157.56.92.149] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Jun 15 12:34:16 2013] [error] [client 54.226.1.179] script '/var/www/nathancazell.com/wp-login.php' not found or unable to stat
+[Sat Jun 15 13:56:40 2013] [error] [client 157.56.92.149] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sat Jun 15 23:34:07 2013] [error] [client 96.226.241.93] File does not exist: /var/www/nathancazell.com/favicon.ico
+[Sun Jun 16 02:18:20 2013] [error] [client 66.249.75.166] File does not exist: /var/www/nathancazell.com/robots.txt
+[Sun Jun 16 03:38:23 2013] [error] [client 157.56.93.52] File does not exist: /var/www/nathancazell.com/robots.txt

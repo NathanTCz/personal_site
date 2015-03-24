@@ -1,0 +1,147 @@
+@font-face {
+    font-family: 'dragonwi';
+    src: url('../fonts/dragonwi.ttf') format('truetype');
+}
+::selection {
+	background:#F0E68C;
+}
+html {
+	background-image:url('../images/bg.png');
+	background-repeat:repeat;
+}
+html, body {
+	margin:0;
+	padding:0;
+	
+	width:100%;
+	height:100%;
+	
+	font-family:Courier;
+}
+div {
+	display:block;
+}
+a {
+	color:#666633;
+}
+h1 {
+	font:bold 40px inherit;
+	color: #540115;
+}
+mtitle {
+	font:bold 40px courier;
+	color: #540115;
+}
+
+.sig {
+	font-size: 8pt;
+}
+
+.wrapper {
+	height:100%;
+	width:100%;
+	margin:0px auto;
+}
+.main {
+	float:left;
+	margin-left:15em;
+	
+	min-height:100%;
+	width:60%;
+	
+	font-size:1.125em;
+}
+.middle {
+	float:left;
+	margin:20px 50px;
+	
+	height:auto;
+	width:100%;
+	word-wrap:normal;
+}
+.homesection {
+	float:left;
+	width:30%;
+	
+	margin-left:20px;
+	padding:10px;
+
+	font-size: 11pt;
+	
+	background:#CCCC99;
+	
+	border-radius:4px;
+}
+.point {
+	position: relative;
+	top: 34px;
+	left: 298px;
+	
+	width: 0px;
+	height: 0px;
+	
+	border-top: 10px solid transparent;
+	border-bottom: 10px solid transparent;
+	border-right: 12px solid #CCCC99;
+}
+.sidenav {
+	position: fixed;
+	width: 15em;
+	min-height: 100%;
+	height: auto;
+	
+	background: -webkit-linear-gradient(left, #CCCC99 0%,#CCCC99 94%,#666633 100%);
+	background: -o-linear-gradient(left, #CCCC99 0%,#CCCC99 94%,#666633 100%);
+	background: -ms-linear-gradient(left, #CCCC99 0%,#CCCC99 94%,#666633 100%);
+	background: -moz-linear-gradient(left, #CCCC99 0%,#CCCC99 94%,#666633 100%);
+}
+.sidenav div {
+	margin-left:20px;
+}
+.sidenav p {
+	position:absolute;
+	bottom:0px;
+	
+	padding-top:15px;
+	padding-right:15px;
+	
+	border-top:1px dotted grey;
+}
+.sidenav ul {
+	margin:0px;
+}
+.sidenav ul li {
+	list-style:none;
+
+	margin:2px 2px 2px -40px;
+	padding:5px;
+	
+	border-bottom:1px dotted grey;
+}
+.sidenav ul li:last-child {
+	border:none;
+}
+.sidenav ul li a{
+	text-decoration:none;
+	color:black;
+}
+.sidenav ul li a:hover {
+	color:#FFF;
+}
+.sidenav ul li img {
+	float:right;
+	
+	margin-right:20px;
+	max-height:18px;
+}
+.sidenav li img.home:hover {
+	background-image:url('../images/home_hover.png');
+}
+.projects li {
+	list-style:none;
+	border-top:1px dotted grey;
+	border-bottom:1px dotted grey;
+}
+.projects li div img {
+	max-height:100px;
+}
